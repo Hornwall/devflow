@@ -1,3 +1,5 @@
+[Demo](https://asciinema.org/a/FUgYkFjl9RDkemfTY3stmFA0J)
+
 # DevFlow
 __NOTE__: This project is in beta
 
